@@ -1,0 +1,19 @@
+{
+  "name": "technical_sirclo",
+  "version": "1.0.0",
+  "description": "assesment SIRCLO",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:awesome": "mocha --reporter mochawesome || true",
+    "open:report": "open mochawesome-report/mochawesome.html"
+  },
+  "author": "yoshua",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.1"
+  }
+}
