@@ -1,7 +1,7 @@
 {
-  "name": "technical_sirclo",
+  "name": "technical_test",
   "version": "1.0.0",
-  "description": "assesment SIRCLO",
+  "description": "technical test",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
